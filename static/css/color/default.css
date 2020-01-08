@@ -1,0 +1,40 @@
+/* ::selection {
+  background-color: #2196F5;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #2196F5;
+  color: #fff;
+}
+
+.theme-color {
+  color: #2196F5;
+}
+
+.home-banner .social-icons a:hover,
+.btn-theme, 
+.theme-after:after,
+.theme-bg {
+  background: #2196F5;
+} */
+
+::selection {
+  background-color: #e84b63;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #e84b63;
+  color: #fff;
+}
+
+.theme-color {
+  color: #e84b63;
+}
+
+.home-banner .social-icons a:hover,
+.btn-theme, 
+.theme-after:after,
+.theme-bg {
+  background: #e84b63;
+}
+
