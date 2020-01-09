@@ -133,8 +133,10 @@ Copyright (c) 2018 - PxDraft
             speed: 200,
             loop:true,
             strings: [
-              'Designer',
-              'Developer'
+              'UI / UX Designer',
+              'UI Developer',
+              'Web Designer',
+              'Web Developer'
             ],
             breakLines: false
         }); 
